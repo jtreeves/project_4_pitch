@@ -17,6 +17,38 @@ A guide to my fourth project for General Assembly.
 
 ### File Structure
 
+regressions_library
+|-- matrices
+|   |-- matrix.py
+|   |-- magnitude.py
+|   |-- dot_product.py
+|   |-- column.py
+|   |-- additions.py
+|   |-- scalar.py
+|   |-- multiplication.py
+|   |-- determinant.py
+|   |-- cofactors.py
+|   |-- minors.py
+|   |-- inverse.py
+|   |-- transpose.py
+|-- regressions
+|   |-- run_all.py
+|   |-- best.py
+|   |-- error.py
+|   |-- linear.py
+|   |-- quadratic.py
+|   |-- cubic.py
+|   |-- hyperbolic.py
+|   |-- exponential.py
+|   |-- logarithmic.py
+|   |-- logistic.py
+|   |-- sinusoidal.py
+|-- tests
+|   |-- matrices.py
+|   |-- regressions.py
+|-- READE.md
+|-- .gitignore
+
 ### Code Examples
 
 ## API
