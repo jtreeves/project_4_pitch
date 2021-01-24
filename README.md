@@ -23,7 +23,7 @@ A guide to my fourth project for General Assembly.
 
 ### Models
 
-![ERD](/images/erd-r.jpg)
+![ERD](/images/erd-r.png)
 
 ### Routes
 
@@ -34,22 +34,22 @@ A guide to my fourth project for General Assembly.
 ### Designs
 
 **Home Page**
-![Home Page](/images/wireframe-r1.jpg)
+![Home Page](/images/wireframe-r1.png)
 
 **Math Explanation**
-![Math Explanation](/images/wireframe-r2.jpg)
+![Math Explanation](/images/wireframe-r2.png)
 
 **Usage Guide**
-![Usage Guide](/images/wireframe-r3.jpg)
+![Usage Guide](/images/wireframe-r3.png)
 
 **Sign Up**
-![Sign Up](/images/wireframe-r4.jpg)
+![Sign Up](/images/wireframe-r4.png)
 
 ## App Backend
 
 ### Models
 
-![ERD](/images/erd-p.jpg)
+![ERD](/images/erd-p.png)
 
 ### Routes
 
@@ -64,28 +64,28 @@ A guide to my fourth project for General Assembly.
 ### Designs
 
 **Home Page**
-![Home Page](/images/wireframe-p1.jpg)
+![Home Page](/images/wireframe-p1.png)
 
 **About**
-![About](/images/wireframe-p2.jpg)
+![About](/images/wireframe-p2.png)
 
 **Sign Up**
-![Sign Up](/images/wireframe-p3.jpg)
+![Sign Up](/images/wireframe-p3.png)
 
 **Log In**
-![Log In](/images/wireframe-p4.jpg)
+![Log In](/images/wireframe-p4.png)
 
 **Blank Profile**
-![Blank Profile](/images/wireframe-p5.jpg)
+![Blank Profile](/images/wireframe-p5.png)
 
 **Filled Profile**
-![Filled Profile](/images/wireframe-p6.jpg)
+![Filled Profile](/images/wireframe-p6.png)
 
 **Add New Data Set**
-![Add New Data Set](/images/wireframe-p7.jpg)
+![Add New Data Set](/images/wireframe-p7.png)
 
 **View Data Set**
-![View Data Set](/images/wireframe-p8.jpg)
+![View Data Set](/images/wireframe-p8.png)
 
 ## Plan
 
