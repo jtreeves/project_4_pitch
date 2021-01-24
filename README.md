@@ -65,7 +65,7 @@ regressions_library
 | ------ | ----------- | ---------- | -------- | ----------------------------- |
 | POST   | users       | /signup/   | views.py | Sign up a new user            |
 | POST   | regressions | /          | views.py | Create a new regression       |
-| GET    | regressions | /<int:pk>/ | views.py | Get an existing regression    |
+| GET    | regressions | /\<int:pk\>/ | views.py | Get an existing regression    |
 | PUT    | regressions | /<int:pk>/ | views.py | Update an existing regression |
 | DELETE | regressions | /<int:pk>/ | views.py | Delete an existing regression |
 
