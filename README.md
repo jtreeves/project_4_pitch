@@ -15,6 +15,8 @@ A guide to my fourth project for General Assembly.
 
 ## Library
 
+This [library](https://github.com/jtreeves/matrix_regression) will be made publically available after it is uploaded to Python's database of libraries. It contains all the code for determining regression equations, as well as the code for evaluating said regressions and presenting their results in a raw format.
+
 ### File Structure
 
 ```
@@ -89,6 +91,8 @@ def error(data, equation):
 
 ## API
 
+This [API](https://github.com/jtreeves/regressions_api) will directly pull information from the library. Anyone can use it after getting an API key. It can provide regression models for various data sets.
+
 ### Models
 
 ![ERD](/images/erd-r.png)
@@ -161,6 +165,8 @@ regressions_api
 
 ## App Backend
 
+This repository will serve as the [backend for the main app](https://github.com/jtreeves/predictions-backend). It will directly pull from the API. However, unlike the API, when the information is displayed on the app's frontend, it will be in a visually appealing way, as opposed to in a raw format.
+
 ### Models
 
 ![ERD](/images/erd-p.png)
@@ -208,6 +214,8 @@ predictions-backend
 ```
 
 ## App Frontend
+
+This repository will serve as the [frontend for the main app](https://github.com/jtreeves/predictions-frontend). Unlike the API, when it displays the information it receives from the usser, it will be in a visually appealing way, as opposed to in a raw format.
 
 ### File Structure
 
