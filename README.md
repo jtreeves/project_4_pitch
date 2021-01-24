@@ -101,6 +101,16 @@ regressions_api
 
 ### User Stories
 
+- As a potential user, I want to know about its appeal, so I have a reason to sign up.
+- As a potential user, I want to see specific examples of how it can be used by customers, so I know how I can implement it.
+- As a potential user, I want to understand the mathematical logic that it implements and how it differs from any competitors, so I can understand the logic.
+- As a potential user, I want to be able to sign up for an API key, so I can use it.
+- As a user, I want to be able to upload my data to their database by using my API key, so I can access it.
+- As a user, I want to be able to view my data stored in their database by using my API key, so I can access it.
+- As a user, I want to know that no one else can access my data, so I know it is secure.
+- As a user, I want to get extensive info from the API, so I know that it was worth signing up for.
+- As a user, I want to get the data in a raw format, so I can easily customize it to my needs.
+
 ### Designs
 
 **Home Page**
@@ -218,6 +228,19 @@ predictions-frontend
 ```
 
 ### User Stories
+
+- As a potential user, I want to know about its appeal, so I have a reason to sign up.
+- As a potential user, I want to see specific examples of how it can be used by customers, so I know how I can implement it.
+- As a potential user, I want to be able to sign up with an email and password, so I can create an account
+- As a user, I want to be able to log in to my account with my email and password, so I can use the site.
+- As a user, I want to be able to submit data sets, so I can get them analyzed.
+- As a user, I want to be able to submit my data sets in a CSV format, so the process only involves one step and uses a format in which I probably already have the data.
+- As a user, I want to be able to see regression models that fit the data I submitted, so I can better understand my original data.
+- As a user, I want to get the analysis in an easily digestible format, so I can understand it without needing a background in math.
+- As a user, I want to be able to access previously uploaded data sets and their analyses, so I do not need to repeatedly re-upload the same data every time I want to analyze it.
+- As a user, I want to be able to favorite specific models of my data, so I do not need to look at unideal formats.
+- As a user, I want to be able to add notes to my models and view them at a future date, so I can use the site to keep track of my thoughts on my initial data and the site's analysis.
+- As a user, I want to know that no one else can access my data, so I know it is secure.
 
 ### Designs
 
