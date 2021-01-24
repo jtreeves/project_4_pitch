@@ -17,7 +17,7 @@ A guide to my fourth project for General Assembly.
 
 ### File Structure
 
-```bash
+```
 regressions_library  
 |-- matrices  
 |   |-- matrix.py  
