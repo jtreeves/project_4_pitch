@@ -13,6 +13,13 @@ A guide to my fourth project for General Assembly.
 
 ## Overview
 
+This project will be distributed over four repositories:
+- A library of algorithms, written in Python
+- An API that uses the library, written in Python using the Django framework and a SQL database
+- A backend for a main app that uses the API, written in JavaScript using the Express framework and a Mongo database
+- A frontened for a main app that works with its backend repository, written in JavaScript using the React framework
+
+
 ## Library
 
 This [library](https://github.com/jtreeves/matrix_regression) will be made publically available after it is uploaded to Python's database of libraries. It contains all the code for determining regression equations, as well as the code for evaluating said regressions and presenting their results in a raw format.
