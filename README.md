@@ -63,6 +63,34 @@ regressions_library
 
 ### File Structure
 
+```
+regressions_api
+|-- configurations
+|   |-- __init__.py
+|   |-- asgi.py
+|   |-- settings.py
+|   |-- urls.py
+|   |-- wsgi.py
+|-- regressions
+|   |-- middleware
+|   |-- migrations
+|   |-- templates
+|   |   |-- regressions
+|   |   |-- about.html
+|   |   |-- base.html
+|   |   |-- index.html
+|   |   |-- math.html
+|   |   |-- signup.html
+|   |   |-- usage.html
+|   |-- __init__.py
+|   |-- admin.py
+|   |-- apps.py
+|   |-- models.py
+|   |-- tests.py
+|   |-- urls.py
+|   |-- views.py
+```
+
 ### User Stories
 
 ### Designs
