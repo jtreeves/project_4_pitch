@@ -15,10 +15,42 @@ A guide to my fourth project for General Assembly.
 
 ## Library
 
+### File Structure
+
+### Code Examples
+
 ## API
+
+### Models
+
+### Routes
+
+### File Structure
+
+### User Stories
+
+### Designs
 
 ## App Backend
 
+### Models
+
+### Routes
+
+### File Structure
+
 ## App Frontend
 
+### File Structure
+
+### User Stories
+
+### Designs
+
 ## Plan
+
+### Sunday
+
+### Monday
+
+### Tuesday
