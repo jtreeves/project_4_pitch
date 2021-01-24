@@ -61,6 +61,14 @@ regressions_library
 
 ### Routes
 
+| Method | Model       | Path       | File     | Description                   |
+| ------ | ----------- | ---------- | -------- | ----------------------------- |
+| POST   | users       | /signup/   | views.py | Sign up a new user            |
+| POST   | regressions | /          | views.py | Create a new regression       |
+| GET    | regressions | /<int:pk>/ | views.py | Get an existing regression    |
+| PUT    | regressions | /<int:pk>/ | views.py | Update an existing regression |
+| DELETE | regressions | /<int:pk>/ | views.py | Delete an existing regression |
+
 ### File Structure
 
 ```
@@ -114,6 +122,19 @@ regressions_api
 ![ERD](/images/erd-p.png)
 
 ### Routes
+
+| Method | Model       | Path     | File       | Description                        |
+| ------ | ----------- | -------- | ---------- | ---------------------------------- |
+| POST   | users       | /signup  | users.js   | Sign up a new user                 |
+| POST   | users       | /login   | users.js   | Log in an existing user            |
+| GET    | users       | /:id     | users.js   | Display a user's data              |
+| PUT    | users       | /:id     | users.js   | Update a user's data               |
+| DELETE | users       | /:id     | users.js   | Delete a user's account            |
+| POST   | predictions | /:id     | budgets.js | Create a new prediction            |
+| GET    | predictions | /all/:id | budgets.js | View all of a user's predictions   |
+| GET    | predictions | /:id     | budgets.js | View one of a user's predictions   |
+| PUT    | predictions | /:id     | budgets.js | Update one of a user's predictions |
+| DELETE | predictions | /:id     | budgets.js | Delete one of a user's predictions |
 
 ### File Structure
 
