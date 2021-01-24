@@ -117,9 +117,84 @@ regressions_api
 
 ### File Structure
 
+```
+predictions-backend
+|-- controllers
+|   |-- users.js
+|   |-- predictions.js
+|-- models
+|   |-- schemas
+|   |   |-- subschemas
+|   |   |   |-- Favorite.js
+|   |   |   |-- Note.js
+|   |   |-- User.js
+|   |   |-- Prediction.js
+|   |-- index.js
+|-- middleware
+|   |-- authentication.js
+|-- test
+|   |-- users.test.js
+|   |-- predictions.test.js
+|-- server.js
+|-- package.json
+|-- package-lock.json
+|-- README.md
+|-- .gitignore
+```
+
 ## App Frontend
 
 ### File Structure
+
+```
+predictions-frontend
+|-- public
+|   |-- index.html
+|   |-- manifest.json
+|   |-- robots.txt
+|   |-- favicon.ico
+|-- src
+|   |-- components
+|   |   |-- pages
+|   |   |   |-- welcome
+|   |   |   |   |-- Home.js
+|   |   |   |   |-- About.js
+|   |   |   |-- profile
+|   |   |   |   |-- Home.js
+|   |   |   |   |-- Analyze.js
+|   |   |-- elements
+|   |   |   |-- main
+|   |   |   |   |-- Navigation.js
+|   |   |   |   |-- Form.js
+|   |   |   |   |-- Header.js
+|   |   |   |   |-- Footer.js
+|   |   |   |-- welcome
+|   |   |   |   |-- Introduction.js
+|   |   |   |   |-- Signup.js
+|   |   |   |   |-- Login.js
+|   |   |   |-- profile
+|   |   |   |   |-- List.js
+|   |   |   |   |-- View.js
+|   |   |   |   |-- Add.js
+|   |   |   |   |-- Update.js
+|   |   |   |   |-- Delete.js
+|   |   |-- middleware
+|   |   |   |   |-- Authentication.js
+|   |   |   |   |-- Private.js
+|   |   |   |   |-- Regression.js
+|   |   |   |   |-- SpreadsheetInput.js
+|   |   |   |   |-- GraphOutput.js
+|   |-- App.js
+|   |-- App.css
+|   |-- App.test.js
+|   |-- setupTests.js
+|   |-- reportWebVitals.js
+|   |-- index.js
+|-- package.json
+|-- package-lock.json
+|-- README.md
+|-- .gitignore
+```
 
 ### User Stories
 
