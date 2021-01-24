@@ -321,6 +321,21 @@ predictions-frontend
 
 ### Sunday
 
+- Create publishable versions of all repos
+- Publish three main repos with Heroku
+- Publish library with Python
+- Connect app with API with library
+- Ensure data flow works from frontend to backend to API to library, and back again
+
 ### Monday
 
+- Implement modules to import CSV data from the user and provide visually appealing graphs as an end result (using D3)
+- Edit the appearance of all repos
+- Ensure nothing key is missing from any repo
+
 ### Tuesday
+
+- Stretch goals with machine learning for sinusoidal and logistic models
+- Finalize styling
+- Optimize
+- Ensure everything cohesively works together
